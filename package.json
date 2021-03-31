@@ -4,6 +4,7 @@
 	"author": "Raenell Javier",
 	"keywords": ["Raenell Javier", "freecodecamp", "Learn to be a programmer"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
