@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "A web app that teaches people the ability to make meaningful contributions to software projects.",
 	"author": "Raenell Javier",
 	"dependencies": {
 		"express": "^4.14.0"
