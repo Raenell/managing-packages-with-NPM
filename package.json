@@ -7,7 +7,7 @@
 	"keywords": ["Raenell Javier", "freecodecamp", "Learn to be a programmer"],
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
