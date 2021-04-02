@@ -10,7 +10,7 @@
 		"Learn to be a programmer"
 	],
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.14.0",
 		"moment": "2.10.2"
 	},
 	"main": "server.js",
